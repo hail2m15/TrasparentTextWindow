@@ -3,10 +3,15 @@ This project implements a transparent always-on-top window in C++ (Win32 API) th
 
 /your-project
 ├── bin/                      # Compiled output (.exe) goes here
+
 ├── build/                    # Intermediate build files (.obj, .pdb) go here
+
 ├── source.cpp                # Entry point (WinMain)
+
 ├── TransparentWindow.cpp     # Transparent window class implementation
+
 ├── TransparentWindow.h       # Transparent window class header
+
 ├── Makefile                  # Makefile for MSVC / nmake
 
 To build this project from the command line using nmake:
