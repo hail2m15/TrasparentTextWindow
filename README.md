@@ -18,3 +18,6 @@ To build this project from the command line using nmake:
 1)cd path\to\your-project
 2)nmake
 3)The resulting .exe will appear in the bin/ folder. Object and debug files go to build/.
+
+
+![image](https://github.com/user-attachments/assets/fb328235-eda0-448b-a5e1-d532a305b071)
